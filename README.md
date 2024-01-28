@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔧 Skills: HTML / CSS / JS / TS / React / GraphQL / Next.js / Jest / Cypress / Git.
+- 🔧 Skills: HTML / CSS / JS / TS / React / GraphQL / Next.js / Jest / Cypress / Git / Shopify.
 - 🌱 I’m currently a FE web developer. My career goal is to become a professional Frontend Engineer, aiming to provide the best UI/UX solutions for clients, along with adhering to clean coding practices and ensuring high-quality and performant results.
 - 🫶 Hobbies:
   - Reading books. (especially in the genres of horror, mystery, and psychology.)
